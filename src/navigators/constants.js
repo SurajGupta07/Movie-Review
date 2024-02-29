@@ -1,0 +1,16 @@
+export const SCREEN_TABS = {
+    Signin: "Signin",
+    Signup: "Signup",
+    Feed: "Feed",
+    Profile: "Profile",
+    Favourite: "Favourite",
+    ProfileEdit: "ProfileEdit",
+    MovieDetail: "MovieDetail",
+    Search: "Search",
+    EditSettings: "EditSettings",
+    Onboarding: "Onboarding",
+    HomeFeed: "HomeFeed",
+    ProfileScreen: "ProfileScreen",
+    NoNetwork: "NoNetwork",
+    Localization: "Localization",
+};

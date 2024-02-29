@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "399376882142",
+    "firebase_url": "https://mini-project-894dd-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "mini-project-894dd",
+    "storage_bucket": "mini-project-894dd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:399376882142:android:3872ed1526c7e1d3a8654f",
+        "android_client_info": {
+          "package_name": "com.moviereview"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "399376882142-2cpkn2f2dtt3tlu7i7adk30pfljt7b04.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCe0mUQ3kOdRT6x5HUZL5kXXR3qYbORcs0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "399376882142-2cpkn2f2dtt3tlu7i7adk30pfljt7b04.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "399376882142-f4v1ija2qjoavvl1jlf2dvaajbut2gud.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.moviereview"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
